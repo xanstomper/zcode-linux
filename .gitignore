@@ -34,3 +34,5 @@ build-info.json
 .idea/
 *.swp
 .DS_Store
+aimbot-venv/
+*.env
